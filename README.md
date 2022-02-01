@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @VhBuriti
--👨‍💻 All of my projects are available at https://github.com/VhBuriti
+
+- 👨‍💻 All of my projects are available at https://github.com/VhBuriti
+
 - 🌱 I’m currently learning CSS/HTML/JavaScript
+
 - 📫 How to reach me victorhugoburit@hotmail.com
 
 <!---
