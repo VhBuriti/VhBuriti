@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VhBuriti
+- 👋 Hi, I’m Victor Buriti
 
 - 👨‍💻 All of my projects are available at https://github.com/VhBuriti
 
