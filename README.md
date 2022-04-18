@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning CSS/HTML/JavaScript
 
-- 📫 How to reach me victorhugoburit@hotmail.com
+- 📫 How to reach me victorhugoburiti@hotmail.com
 
 <!---
 VhBuriti/VhBuriti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
