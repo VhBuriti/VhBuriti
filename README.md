@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/VhBuriti
 
-- 🌱 I’m currently learning CSS/HTML/JavaScript/React
+- 🌱 I’m currently learning CSS/HTML/JavaScript/React/TypeScript/VTEX IO/GraphQL/Python
 
 - 📫 How to reach me victorhugoburiti@hotmail.com
 
